@@ -1,7 +1,7 @@
 ### Prazer, sou o Eric Rufino 👋
 
-*Estou fazendo um curso na EBAC
-*Estou estudando html e CSS
+* Estou fazendo um curso na EBAC.
+* Estou estudando html e CSS.
 
 <!--
 **eknrufino/eknrufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
