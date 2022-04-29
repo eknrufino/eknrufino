@@ -3,6 +3,8 @@
 * Estou fazendo um curso na EBAC.
 * Estou estudando html e CSS.
 
+<img src="{https://www.facebook.com/eric.kazuo.9}">
+
 <!--
 **eknrufino/eknrufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
